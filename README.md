@@ -24,3 +24,4 @@
 - [DaemnoSet](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
 - [kubectl api-resoruces, to verify all the resources available for creation](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_api-resources/)
 - [Custom Resource Definition](https://kubernetes.io/docs/concepts/extend-kubernetes/api-extension/custom-resources/)
+- [Decomposing monoliths into microservices](https://docs.aws.amazon.com/prescriptive-guidance/latest/modernization-decomposing-monoliths/welcome.html)
