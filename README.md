@@ -38,3 +38,9 @@
 - [Packer templates for EKS AMIs](https://github.com/awslabs/amazon-eks-ami)
 - [EKS blueprints announcement](https://aws.amazon.com/blogs/containers/bootstrapping-clusters-with-eks-blueprints/)
 - [EKS terraform blueprints repo](https://github.com/aws-ia/terraform-aws-eks-blueprints)
+- Upgrading EKS, and support info:
+  - [Kubernetes release cycle](https://kubernetes.io/releases/release/#the-release-cycle)
+  - [Version skew policy](kubernetes.io/releases/version-skew-policy/)
+  - [Kubernetes release history](https://kubernetes.io/releases/)
+  - [EKS support, different from the course material, as only 3 versions are in standard and 3 in extended support](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
+  - [Enabling extended support](https://docs.aws.amazon.com/eks/latest/userguide/enable-extended-support.html)
