@@ -11,3 +11,5 @@
 - [Research paper from IEEE ICC 2019 conference, comparing multiple container orchestration engines](https://isamaljawarneh.github.io/pubs/ICC19.pdf)
 - [CNCF - Cloud Native Computing Foundation landscape, showing maturity level of projects](https://landscape.cncf.io/)
 - [Kubernetes architecture, from kubernetes.io](https://kubernetes.io/docs/concepts/architecture/)
+- [Creating a kubernetes cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/)
+- [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
