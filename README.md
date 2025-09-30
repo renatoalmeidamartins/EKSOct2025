@@ -34,3 +34,7 @@
 - [EKS auto-mode](https://aws.amazon.com/blogs/aws/streamline-kubernetes-cluster-management-with-new-amazon-eks-auto-mode/?trk=d57158fd-77e3-423f-9e1e-005fd2a64d89&sc_channel=el)
 - [Admission webhooks](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/)
 - [Admission controller](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/)
+- [eksctl repo](https://github.com/eksctl-io/eksctl)
+- [Packer templates for EKS AMIs](https://github.com/awslabs/amazon-eks-ami)
+- [EKS blueprints announcement](https://aws.amazon.com/blogs/containers/bootstrapping-clusters-with-eks-blueprints/)
+- [EKS terraform blueprints repo](https://github.com/aws-ia/terraform-aws-eks-blueprints)
