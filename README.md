@@ -33,3 +33,4 @@
 - [Using custom images for self-managed or managed node groups](https://docs.aws.amazon.com/eks/latest/userguide/eks-optimized-amis.html)
 - [EKS auto-mode](https://aws.amazon.com/blogs/aws/streamline-kubernetes-cluster-management-with-new-amazon-eks-auto-mode/?trk=d57158fd-77e3-423f-9e1e-005fd2a64d89&sc_channel=el)
 - [Admission webhooks](https://kubernetes.io/docs/reference/access-authn-authz/extensible-admission-controllers/)
+- [Admission controller](https://kubernetes.io/docs/reference/access-authn-authz/admission-controllers/)
