@@ -44,3 +44,6 @@
   - [Kubernetes release history](https://kubernetes.io/releases/)
   - [EKS support, different from the course material, as only 3 versions are in standard and 3 in extended support](https://docs.aws.amazon.com/eks/latest/userguide/kubernetes-versions.html)
   - [Enabling extended support](https://docs.aws.amazon.com/eks/latest/userguide/enable-extended-support.html)
+  - [Upgrade sequence from Kubernetes.io](https://kubernetes.io/docs/tasks/administer-cluster/cluster-upgrade/)
+  - [Upgrade doc on EKS](https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html)
+  - [Kubernetes API deprecation](https://kubernetes.io/docs/reference/using-api/deprecation-guide/)
