@@ -13,3 +13,4 @@
 - [Kubernetes architecture, from kubernetes.io](https://kubernetes.io/docs/concepts/architecture/)
 - [Creating a kubernetes cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/)
 - [Kubernetes the hard way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [Taints and tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
