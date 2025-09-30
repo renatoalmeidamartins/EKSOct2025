@@ -18,3 +18,7 @@
 - [ConfigMap](https://kubernetes.io/docs/concepts/configuration/configmap/)
 - [Secrets, bear in mind they are stored unencrypted](https://kubernetes.io/docs/concepts/configuration/secret/#opaque-secrets)
 - [Data encryption and secrets management](https://docs.aws.amazon.com/eks/latest/best-practices/data-encryption-and-secrets-management.html)
+- [CronJobs](https://kubernetes.io/docs/concepts/workloads/controllers/cron-jobs/)
+- [Jobs](https://kubernetes.io/docs/concepts/workloads/controllers/job/)
+- [StatefulSet](https://kubernetes.io/docs/concepts/workloads/controllers/statefulset/)
+- [DaemnoSet](https://kubernetes.io/docs/concepts/workloads/controllers/daemonset/)
