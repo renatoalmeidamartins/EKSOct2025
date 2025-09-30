@@ -29,3 +29,5 @@
   - [Legacy way, using aws-auth ConfigMap](https://docs.aws.amazon.com/eks/latest/userguide/auth-configmap.html)
   - [Currently, we should use EKS access entries](https://docs.aws.amazon.com/eks/latest/userguide/access-entries.html)
 - [Improved scaling of control plane nodes on EKS](https://aws.amazon.com/blogs/containers/amazon-eks-control-plane-auto-scaling-enhancements-improve-speed-by-4x/)
+- [eks API commands](https://docs.aws.amazon.com/cli/latest/reference/eks/)
+- [Using custom images for self-managed or managed node groups](https://docs.aws.amazon.com/eks/latest/userguide/eks-optimized-amis.html)
