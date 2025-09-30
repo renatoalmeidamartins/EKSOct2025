@@ -48,3 +48,5 @@
   - [Upgrade doc on EKS](https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html)
   - [Kubernetes API deprecation](https://kubernetes.io/docs/reference/using-api/deprecation-guide/)
 - [Helm docs](https://helm.sh/docs/chart_template_guide/getting_started/)
+- [Pulling images from artifactory](https://aws.amazon.com/blogs/containers/use-private-certificates-to-enable-a-container-repository-in-amazon-eks/)
+- [ECR image scanning](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
