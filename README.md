@@ -16,3 +16,5 @@
 - [Taints and tolerations](https://kubernetes.io/docs/concepts/scheduling-eviction/taint-and-toleration/)
 - [Node affinity](https://kubernetes.io/docs/tasks/configure-pod-container/assign-pods-nodes-using-node-affinity/)
 - [ConfigMap](https://kubernetes.io/docs/concepts/configuration/configmap/)
+- [Secrets, bear in mind they are stored unencrypted](https://kubernetes.io/docs/concepts/configuration/secret/#opaque-secrets)
+- [Data encryption and secrets management](https://docs.aws.amazon.com/eks/latest/best-practices/data-encryption-and-secrets-management.html)
