@@ -47,3 +47,4 @@
   - [Upgrade sequence from Kubernetes.io](https://kubernetes.io/docs/tasks/administer-cluster/cluster-upgrade/)
   - [Upgrade doc on EKS](https://docs.aws.amazon.com/eks/latest/userguide/update-cluster.html)
   - [Kubernetes API deprecation](https://kubernetes.io/docs/reference/using-api/deprecation-guide/)
+- [Helm docs](https://helm.sh/docs/chart_template_guide/getting_started/)
