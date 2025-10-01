@@ -76,3 +76,5 @@
 - [CSI definition](https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/)
 - [AWS EBS CSI driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver?tab=readme-ov-file)
 - [All repos with AWS CSI drivers](https://github.com/orgs/kubernetes-sigs/repositories?q=aws*csi)
+- [Storage Classes](https://kubernetes.io/docs/concepts/storage/storage-classes/)
+- [Volume expansion through PVC resizing](https://kubernetes.io/blog/2022/05/05/volume-expansion-ga/)
