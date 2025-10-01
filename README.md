@@ -71,3 +71,5 @@
 - [Logging on fargate, through fluentbit built-in container and ConfigMap](https://docs.aws.amazon.com/eks/latest/userguide/fargate-logging.html)
 - [Prometheus Operator, exposing ServiceMonitor resource](https://github.com/prometheus-operator/prometheus-operator)
 - [More documentation on ServiceMonitor](https://observability.thomasriley.co.uk/prometheus/configuring-prometheus/using-service-monitors/)
+- [EBS volume types](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html). Important difference between gp2 and gp3 is the dynamic IOPS range. In gp2, IOPS grow with the size of the disk, whereas in gp3 they can be defined independently
+- [EBS multi-attach](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volumes-multi.html)
