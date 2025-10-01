@@ -78,3 +78,4 @@
 - [All repos with AWS CSI drivers](https://github.com/orgs/kubernetes-sigs/repositories?q=aws*csi)
 - [Storage Classes](https://kubernetes.io/docs/concepts/storage/storage-classes/)
 - [Volume expansion through PVC resizing](https://kubernetes.io/blog/2022/05/05/volume-expansion-ga/)
+- [Secrets manager rotation functions](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html#sar-template-sqlserver-singleuser)
