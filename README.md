@@ -81,3 +81,5 @@
 - [Secrets manager rotation functions](https://docs.aws.amazon.com/secretsmanager/latest/userguide/reference_available-rotation-templates.html#sar-template-sqlserver-singleuser)
 - [Accessing secrets through volumes](https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/#create-a-pod-that-has-access-to-the-secret-data-through-a-volume)
 - [Accessing secrets as environment variables](https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/#define-container-environment-variables-using-secret-data)
+- [ASCP - AWS Secrets Configuration Provider for Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/ascp-eks-installation.html)
+- [ASCP - secrets backed by SSM parameter store](https://docs.aws.amazon.com/systems-manager/latest/userguide/ascp-examples.html)
