@@ -51,3 +51,9 @@
 - [Helm docs](https://helm.sh/docs/chart_template_guide/getting_started/)
 - [Pulling images from artifactory](https://aws.amazon.com/blogs/containers/use-private-certificates-to-enable-a-container-repository-in-amazon-eks/)
 - [ECR image scanning](https://docs.aws.amazon.com/AmazonECR/latest/userguide/image-scanning.html)
+## Day 2 links
+- [Defining a NodePool in auto-mode, note the limits, which effectively define the maximum number of cpus that a nodepool can have](https://docs.aws.amazon.com/eks/latest/userguide/create-node-pool.html)
+- [Nodepools defined on karpenter docs](https://karpenter.sh/docs/concepts/nodepools/#speclimits)
+- Karpenter chooses the best priced instance based on the requirements of non-schedulable pods. Documentation confirming this is below:
+  - [Nodes can be replaced with lower priced variants](https://karpenter.sh/docs/concepts/disruption/), implying it uses the [Lowest price allocation strategy](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-fleet-allocation-strategy.html#ec2-fleet-allocation-strategies-for-on-demand-instances) for on-demand.
+  - For spot, it uses the [Price capacity optimized allocation strategy](https://docs.aws.amazon.com/eks/latest/best-practices/karpenter.html). Look at section "Avoid overly constraining the Instance Types that Karpenter can provision, especially when utilizing Spot"
