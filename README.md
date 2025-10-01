@@ -68,3 +68,4 @@
 - [AWS Distro for OpenTelemetry](https://aws-otel.github.io/docs/introduction)
 - [Configuring FluentBit to output logs to CloudWatch](https://docs.fluentbit.io/manual/data-pipeline/outputs/cloudwatch)
 - [Setting up the CloudWatch agent to collect cluster metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-metrics.html)
+- [Logging on fargate, through fluentbit built-in container and ConfigMap](https://docs.aws.amazon.com/eks/latest/userguide/fargate-logging.html)
