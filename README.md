@@ -63,5 +63,8 @@
 - [VPA limitations](https://github.com/kubernetes/autoscaler/blob/master/vertical-pod-autoscaler/docs/known-limitations.md)
 - [Cluster AutoScaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler)
 - [Cluster Autoscaler on AWS](https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/cloudprovider/aws/README.md)
+- [EKS logs](https://docs.aws.amazon.com/eks/latest/userguide/control-plane-logs.html)
 - [Prometheus](https://prometheus.io/)
 - [AWS Distro for OpenTelemetry](https://aws-otel.github.io/docs/introduction)
+- [Configuring FluentBit to output logs to CloudWatch](https://docs.fluentbit.io/manual/data-pipeline/outputs/cloudwatch)
+- [Setting up the CloudWatch agent to collect cluster metrics](https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/Container-Insights-setup-metrics.html)
