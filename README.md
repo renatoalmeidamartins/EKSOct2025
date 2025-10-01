@@ -62,3 +62,6 @@
 - [Repo with autoscalers for kubernetes](https://github.com/kubernetes/autoscaler/)
 - [VPA limitations](https://github.com/kubernetes/autoscaler/blob/master/vertical-pod-autoscaler/docs/known-limitations.md)
 - [Cluster AutoScaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler)
+- [Cluster Autoscaler on AWS](https://github.com/kubernetes/autoscaler/blob/master/cluster-autoscaler/cloudprovider/aws/README.md)
+- [Prometheus](https://prometheus.io/)
+- [AWS Distro for OpenTelemetry](https://aws-otel.github.io/docs/introduction)
