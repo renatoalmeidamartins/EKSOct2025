@@ -57,3 +57,8 @@
 - Karpenter chooses the best priced instance based on the requirements of non-schedulable pods. Documentation confirming this is below:
   - [Nodes can be replaced with lower priced variants](https://karpenter.sh/docs/concepts/disruption/), implying it uses the [Lowest price allocation strategy](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/ec2-fleet-allocation-strategy.html#ec2-fleet-allocation-strategies-for-on-demand-instances) for on-demand.
   - For spot, it uses the [Price capacity optimized allocation strategy](https://docs.aws.amazon.com/eks/latest/best-practices/karpenter.html). Look at section "Avoid overly constraining the Instance Types that Karpenter can provision, especially when utilizing Spot"
+- [Horizontal Poda Autoscaling](https://kubernetes.io/docs/tasks/run-application/horizontal-pod-autoscale/)
+- [Vertical pod scaling in Kubernetes.io](https://kubernetes.io/docs/tasks/configure-pod-container/resize-container-resources/)
+- [Repo with autoscalers for kubernetes](https://github.com/kubernetes/autoscaler/)
+- [VPA limitations](https://github.com/kubernetes/autoscaler/blob/master/vertical-pod-autoscaler/docs/known-limitations.md)
+- [Cluster AutoScaler](https://github.com/kubernetes/autoscaler/tree/master/cluster-autoscaler)
