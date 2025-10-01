@@ -73,3 +73,6 @@
 - [More documentation on ServiceMonitor](https://observability.thomasriley.co.uk/prometheus/configuring-prometheus/using-service-monitors/)
 - [EBS volume types](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volume-types.html). Important difference between gp2 and gp3 is the dynamic IOPS range. In gp2, IOPS grow with the size of the disk, whereas in gp3 they can be defined independently
 - [EBS multi-attach](https://docs.aws.amazon.com/ebs/latest/userguide/ebs-volumes-multi.html)
+- [CSI definition](https://kubernetes.io/blog/2019/01/15/container-storage-interface-ga/)
+- [AWS EBS CSI driver](https://github.com/kubernetes-sigs/aws-ebs-csi-driver?tab=readme-ov-file)
+- [All repos with AWS CSI drivers](https://github.com/orgs/kubernetes-sigs/repositories?q=aws*csi)
