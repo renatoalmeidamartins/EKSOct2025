@@ -91,4 +91,8 @@
 - [Optimizing IP usage in EKS](https://docs.aws.amazon.com/eks/latest/best-practices/ip-opt.html)
 - [EKS address ranges](https://docs.aws.amazon.com/eks/latest/userguide/network-reqs.html#network-requirements-ip-table?icmpid=docs_eks_help_panel_hp_cluster_configure_k8s_iprange)
 - [VPC CNI](https://docs.aws.amazon.com/eks/latest/best-practices/vpc-cni.html)
-- 
+- [NetworkPolicies](https://kubernetes.io/docs/concepts/services-networking/network-policies/)
+- Security group for pods:
+  - [Blog announcement](https://aws.amazon.com/blogs/containers/introducing-security-groups-for-pods/)
+  - [Best practices guide](https://docs.aws.amazon.com/eks/latest/best-practices/sgpp.html)
+  - [User guide](https://docs.aws.amazon.com/eks/latest/userguide/sg-pods-example-deployment.html)
