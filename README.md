@@ -100,3 +100,5 @@
 - [Comparing load balancers](https://aws.amazon.com/elasticloadbalancing/features/#Product_comparisons)
 - [Load balancer type](https://kubernetes-sigs.github.io/aws-load-balancer-controller/latest/guide/service/annotations/#lb-type)
 - [Gateway Load balancer announcement, attention to the partners at time of launch](https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
+- [Security context in Kubernetes](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
+- [Values available for security context](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.34/#securitycontext-v1-core)
