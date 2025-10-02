@@ -102,3 +102,5 @@
 - [Gateway Load balancer announcement, attention to the partners at time of launch](https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
 - [Security context in Kubernetes](https://kubernetes.io/docs/tasks/configure-pod-container/security-context/)
 - [Values available for security context](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.34/#securitycontext-v1-core)
+- [Authenticate to EKS using Entra - Azure AD](https://aws.amazon.com/blogs/containers/using-azure-active-directory-to-authenticate-to-amazon-eks/)
+
