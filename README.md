@@ -3,6 +3,16 @@
 ## Course materials and access to class environment
 - [Access to labs and course materials](https://us-east-1.student.classrooms.aws.training/class/sVeKxbAoerxEMVvtxYkXRG)
 
+## Class evaluation
+- Go to [aws.training](https://www.aws.training/)
+- Click sign in, log in with the same account you used to access the lab and course materials
+- Then go on the top right to My Account, then transcript, click on the Archived section (direct link [https://www.aws.training/Account/Transcript/Archived](https://www.aws.training/Account/Transcript/Archived)
+- You should see the class, with a button to evaluate
+
+## Contact details
+- email: renatoalmeidamartins@gmail.com
+- [Linkedin profile](https://www.linkedin.com/in/renatodealmeidamartins/)
+
 ## Day 1 links
 - [12 factor app](https://12factor.net/)
 - Strangler Fig pattern, a good strategy for breaking down a monolythic application:
