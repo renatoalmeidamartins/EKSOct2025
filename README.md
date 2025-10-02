@@ -99,3 +99,4 @@
 - [Load balancer in EKS](https://docs.aws.amazon.com/eks/latest/best-practices/load-balancing.html)
 - [Comparing load balancers](https://aws.amazon.com/elasticloadbalancing/features/#Product_comparisons)
 - [Load balancer type](https://kubernetes-sigs.github.io/aws-load-balancer-controller/latest/guide/service/annotations/#lb-type)
+- [Gateway Load balancer announcement, attention to the partners at time of launch](https://aws.amazon.com/blogs/aws/introducing-aws-gateway-load-balancer-easy-deployment-scalability-and-high-availability-for-partner-appliances/)
