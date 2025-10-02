@@ -83,3 +83,7 @@
 - [Accessing secrets as environment variables](https://kubernetes.io/docs/tasks/inject-data-application/distribute-credentials-secure/#define-container-environment-variables-using-secret-data)
 - [ASCP - AWS Secrets Configuration Provider for Secrets Manager](https://docs.aws.amazon.com/secretsmanager/latest/userguide/ascp-eks-installation.html)
 - [ASCP - secrets backed by SSM parameter store](https://docs.aws.amazon.com/systems-manager/latest/userguide/ascp-examples.html)
+- GitOps definitions and tooling:
+  - [Atlassian's definition](https://www.atlassian.com/git/tutorials/gitops)
+  - [Flux](https://fluxcd.io/)
+  - [Argo CD](https://argo-cd.readthedocs.io/en/stable/)
