@@ -87,3 +87,8 @@
   - [Atlassian's definition](https://www.atlassian.com/git/tutorials/gitops)
   - [Flux](https://fluxcd.io/)
   - [Argo CD](https://argo-cd.readthedocs.io/en/stable/)
+## Day 3 links
+- [Optimizing IP usage in EKS](https://docs.aws.amazon.com/eks/latest/best-practices/ip-opt.html)
+- [EKS address ranges](https://docs.aws.amazon.com/eks/latest/userguide/network-reqs.html#network-requirements-ip-table?icmpid=docs_eks_help_panel_hp_cluster_configure_k8s_iprange)
+- [VPC CNI](https://docs.aws.amazon.com/eks/latest/best-practices/vpc-cni.html)
+- 
