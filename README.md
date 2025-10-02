@@ -96,3 +96,6 @@
   - [Blog announcement](https://aws.amazon.com/blogs/containers/introducing-security-groups-for-pods/)
   - [Best practices guide](https://docs.aws.amazon.com/eks/latest/best-practices/sgpp.html)
   - [User guide](https://docs.aws.amazon.com/eks/latest/userguide/sg-pods-example-deployment.html)
+- [Load balancer in EKS](https://docs.aws.amazon.com/eks/latest/best-practices/load-balancing.html)
+- [Comparing load balancers](https://aws.amazon.com/elasticloadbalancing/features/#Product_comparisons)
+- [Load balancer type](https://kubernetes-sigs.github.io/aws-load-balancer-controller/latest/guide/service/annotations/#lb-type)
