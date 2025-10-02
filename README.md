@@ -104,4 +104,6 @@
 - [Values available for security context](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.34/#securitycontext-v1-core)
 - [Authenticate to EKS using Entra - Azure AD](https://aws.amazon.com/blogs/containers/using-azure-active-directory-to-authenticate-to-amazon-eks/)
 - [AWS policy generator](https://awspolicygen.s3.amazonaws.com/policygen.html)
-
+- [kubectl extension, who-can, to list who is allowed to do certain actions](https://github.com/aquasecurity/kubectl-who-can)
+- [kubectl auth can-i](https://kubernetes.io/docs/reference/kubectl/generated/kubectl_auth/kubectl_auth_can-i/)
+- [List of plugins for kubectl](https://krew.sigs.k8s.io/plugins/)
